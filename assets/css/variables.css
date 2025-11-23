@@ -1,0 +1,28 @@
+:root {
+  /* Colors - Nebula Theme */
+  --bg-deep: #030712; /* Very dark blue/black */
+  --bg-surface: rgba(255, 255, 255, 0.03);
+  --bg-glass: rgba(17, 25, 40, 0.6);
+  
+  --primary: #0ea5e9; /* Sky Blue */
+  --primary-glow: rgba(14, 165, 233, 0.5);
+  --secondary: #8b5cf6; /* Violet */
+  --secondary-glow: rgba(139, 92, 246, 0.5);
+  --accent: #22d3ee; /* Cyan */
+  
+  --text-main: #f8fafc;
+  --text-muted: #94a3b8;
+  
+  /* Borders & Shadows */
+  --border-glass: rgba(255, 255, 255, 0.08);
+  --border-highlight: rgba(255, 255, 255, 0.15);
+  --shadow-glass: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  --shadow-glow: 0 0 20px var(--primary-glow);
+  
+  /* Typography */
+  --font-main: 'Outfit', sans-serif;
+  
+  /* Transitions */
+  --ease-out: cubic-bezier(0.215, 0.61, 0.355, 1);
+  --ease-elastic: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
